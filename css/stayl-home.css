@@ -1,0 +1,310 @@
+
+body{
+    margin: 0%;
+    padding: 0%;
+    height: 100vh;
+    
+}
+header {
+    background-color:rgb(255, 255, 255);
+    background-color:cover;
+    height:100vh;
+    background-size: 100%;
+}
+.onle {
+    color: darkorange;
+}
+.hr1{
+    margin-top: 230px;
+    position: absolute;
+    width: 1200px;
+    background-color:green;
+}
+.hr2{
+    margin-top: 850px;
+    position: absolute;
+    width: 1200px;
+    background-color:green;
+}
+.hr3{
+    margin-top: 1360px;
+    position: absolute;
+    width: 1200px;
+    background-color:green;
+}
+.hr4{
+    margin-top: 1000px;
+    position: absolute;
+    margin-left: 250px;
+    height: 300px;
+    background-color:green;
+}.hr5{
+    margin-top: 1000px;
+    position: absolute;
+    margin-left:600px ;
+    height:300px ;
+    
+    background-color:green;
+}.hr6{
+    margin-top: 1000px;
+    position: absolute;
+    height:300px ;
+    background-color:green;
+    margin-left:950px ;
+}
+.logo {
+    margin-top: 30px;
+    width: ;
+}
+.container {
+    width: 1200px;
+    margin: auto;
+    font-family:"Roboto",sans-serif;
+}
+.nav-main {
+    float: right;
+    margin-top:60px ;
+    margin-right: px;
+}
+.nav-main li{
+    list-style: none;
+    display: inline-block;
+    margin-right:20px ;
+}
+.nav-main li a {
+    text-decoration: none;
+    font-size: 20px;
+    padding:10px 10px;
+    text-transform: uppercase;
+    color: black;
+}
+.nav-main li a:hover{
+    color:green;
+}
+.nav-main2 {
+    float: right;
+    margin-top:60px ;
+    margin-right: px;
+}
+.nav-main2 li{
+    list-style: none;
+    display: inline-block;
+    margin-right:20px ;
+}
+.nav-main2 li a {
+    text-decoration: none;
+    font-size: 20px;
+    padding:10px 10px;
+    text-transform: uppercase;
+    color: green;
+}
+.nav-main2 li a:hover{
+    color:green;
+}
+.titleHeader {
+    width: 1200px;
+    position: absolute;
+    margin: 0px;
+}
+h1 {
+    text-transform: uppercase;
+    font-family:"Roboto",sans-serif;
+    font-size:30px;
+    margin-top: 100px;
+    color: black;
+}
+.ttt20{
+    display: none;
+}
+.ttt {
+
+    width: 1200px;
+    position: absolute;
+    margin: 0px;
+    font-size: 25px;
+    margin-top: 20px;
+    font-family:"Roboto",sans-serif;
+}
+.img1 {
+    width: 400px;
+    position: absolute;
+    margin: 0px;
+    margin-left: 700px;
+    margin-top: -100px;
+}
+h2 {
+    width: 800px;
+    position: absolute;
+    margin: 0px;
+    margin-top:250px ;
+    font-family:"Roboto",sans-serif;
+    font-size: 30px;
+}
+.vd {
+    position: absolute;
+    margin: 0px;
+    margin-top:350px ;
+}
+.l1 {
+    width: 390px;
+    height: 1100px;
+    position: absolute;
+    font-size: 25px;
+    margin-top: 450px;
+    font-family:"Roboto",sans-serif;
+    margin-left: 800px;
+    font-size: xx-large;
+}
+.l2 {
+    width: 390px;
+    height: 1100px;
+    position: absolute;
+    font-size: 25px;
+    margin-top: 750px;
+    font-family:"Roboto",sans-serif;
+    margin-left: 800px;
+    font-size: x-large;
+}
+h3{
+    position: absolute;
+    margin: 0px;
+    margin-left: 540px;
+    margin-top:900px ;
+    font-family:"Roboto",sans-serif;
+    font-size: 30px;
+}
+.f1 {
+    position: absolute;
+    margin: 0px;
+    margin-left:30px ;
+    margin-top:1000px ;
+}
+.f1f {
+    position: absolute;
+    margin: 0px;
+    margin-left:-30px ;
+    margin-top:1120px ;
+    font-size: 20px;
+    font-family:"Roboto",sans-serif;
+}
+.f2f {
+    position: absolute;
+    margin: 0px;
+    margin-left:-30px ;
+    margin-top:1170px ;
+    font-size: 15px;
+    height: 400px;
+    font-family:"Roboto",sans-serif;
+    width: 260px;
+}
+.hr7{
+    display: none;
+}
+.t11 {
+    position: absolute;
+    margin: 0px;
+    margin-left:400px ;
+    margin-top:1020px ;
+    width: 80px;
+    height: 70px;
+}
+.t1t {
+    position: absolute;
+    margin: 0px;
+    margin-left:290px ;
+    margin-top:1120px ;
+    font-size: 18px;
+    font-family:"Roboto",sans-serif;
+}
+.t2t {
+    position: absolute;
+    margin: 0px;
+    margin-left:300px ;
+    margin-top:1170px ;
+    font-size: 15px;
+    font-family:"Roboto",sans-serif;
+    width: 250px;
+}
+.h1 {
+    position: absolute;
+    margin: 0px;
+    margin-left:750px ;
+    margin-top:1020px ;
+}
+.h1h {
+
+    position: absolute;
+    margin: 0px;
+    margin-left:640px ;
+    margin-top:1120px ;
+    font-size: 20px;
+    font-family:"Roboto",sans-serif;
+}
+.hhh {
+    text-decoration: none;
+    position: absolute;
+    margin: 0px;
+    margin-left:775px ;
+    margin-top:1120px ;
+    font-size: 20px;
+    font-family:"Roboto",sans-serif;
+    color: green;
+
+}
+
+.h3h {
+    position: absolute;
+    margin: 0px;
+    margin-left:825px ;
+    margin-top:1120px ;
+    font-size: 20px;
+    font-family:"Roboto",sans-serif;
+}
+.h4h {
+    position: absolute;
+    margin: 0px;
+    margin-left:650px ;
+    margin-top:1170px ;
+    font-size: 15px;
+    font-family:"Roboto",sans-serif;
+    width: 300px;
+}
+.d1{
+    position: absolute;
+    margin-left:1080px ;
+    margin-top:1030px ;
+}
+.d1d{
+    position: absolute;
+    margin: 0px;
+    margin-left:960px ;
+    margin-top:1120px ;
+    font-size: 20px;
+    font-family:"Roboto",sans-serif;
+}
+.d2d{
+    position: absolute;
+    margin: 0px;
+    margin-left:980px ;
+    margin-top:1170px ;
+    font-size: 15px;
+    font-family:"Roboto",sans-serif;
+    width: 280px;
+}
+h4 {
+    width: px;
+    position: absolute;
+    margin: 0px;
+    margin-left:500px ;
+    margin-top:1400px ;
+    font-family:"Roboto",sans-serif;
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
